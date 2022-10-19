@@ -36,8 +36,10 @@ requirements:
     - r-checkmate
     - r-data.table
     - r-distr6 >=1.6.11
+    - r-ggplot2
     - r-mlr3 >=0.13.3
     - r-mlr3misc >=0.7.0
+    - r-mlr3viz
     - r-paradox >=0.1.0
     - r-survival
     - r-survivalmodels >=0.1.12
@@ -49,8 +51,10 @@ requirements:
     - r-checkmate
     - r-data.table
     - r-distr6 >=1.6.11
+    - r-ggplot2
     - r-mlr3 >=0.13.3
     - r-mlr3misc >=0.7.0
+    - r-mlr3viz
     - r-paradox >=0.1.0
     - r-survival
     - r-survivalmodels >=0.1.12
