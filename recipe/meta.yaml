@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://mlr-org.r-universe.dev/src/contrib/mlr3proba_{{ version }}.tar.gz
-  sha256: 659b8eef1d65317d6926592e3130f47c823492061cb2822e1788ac8050e71de2
+  sha256: 85646feedccea7d507a0a87bcf31c9c41cd8ebf7f403b0ea48535679fb6922cd
 
 build:
   merge_build_host: true  # [win]
