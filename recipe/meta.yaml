@@ -1,4 +1,4 @@
-{% set version = "0.4.15" %}
+{% set version = "0.4.16" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://mlr-org.r-universe.dev/src/contrib/mlr3proba_{{ version }}.tar.gz
-  sha256: ed0630ca15dd928b3c04cfc171db398129ec1719a5cabc76054458b7498566f2
+  sha256: ac0a5d67d3b6ca0c5c96ce86c56dc43d29463b1e8d38fe578ade319c95378d5d
 
 build:
   merge_build_host: true  # [win]
