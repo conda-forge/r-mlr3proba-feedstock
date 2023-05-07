@@ -1,13 +1,32 @@
-About r-mlr3proba
-=================
-
-Home: https://mlr3proba.mlr-org.com, https://github.com/mlr-org/mlr3proba
-
-Package license: LGPL-3.0-only
+About r-mlr3proba-feedstock
+===========================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlr3proba-feedstock/blob/main/LICENSE.txt)
 
+About r-mlr3proba
+-----------------
+
+Home: https://mlr3proba.mlr-org.com
+
+Package license: LGPL-3.0-only
+
 Summary: Provides extensions for probabilistic supervised learning for 'mlr3'.  This includes extending the regression task to probabilistic and interval regression, adding a survival task, and other specialized models, predictions, and measures. mlr3extralearners is available from <https://github.com/mlr-org/mlr3extralearners>.
+
+Development: https://github.com/mlr-org/mlr3proba
+
+Documentation: https://mlr-org.r-universe.dev/mlr3proba
+About r-mlr3proba
+-----------------
+
+Home: https://mlr3proba.mlr-org.com
+
+Package license: LGPL-3.0-only
+
+Summary: Provides extensions for probabilistic supervised learning for 'mlr3'.  This includes extending the regression task to probabilistic and interval regression, adding a survival task, and other specialized models, predictions, and measures. mlr3extralearners is available from <https://github.com/mlr-org/mlr3extralearners>.
+
+Development: https://github.com/mlr-org/mlr3proba
+
+Documentation: https://mlr-org.r-universe.dev/mlr3proba
 
 Current build status
 ====================
