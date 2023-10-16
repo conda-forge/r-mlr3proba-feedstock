@@ -3,6 +3,7 @@ About r-mlr3proba-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mlr3proba-feedstock/blob/main/LICENSE.txt)
 
+
 About r-mlr3proba
 -----------------
 
@@ -15,6 +16,7 @@ Summary: Provides extensions for probabilistic supervised learning for 'mlr3'.  
 Development: https://github.com/mlr-org/mlr3proba
 
 Documentation: https://mlr-org.r-universe.dev/mlr3proba
+
 About r-mlr3proba
 -----------------
 
