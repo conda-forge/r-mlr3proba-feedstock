@@ -35,7 +35,7 @@ requirements:
     - r-base
     - r-checkmate
     - r-data.table
-    - r-distr6 >=1.6.11
+    - r-distr6 >=1.8.2
     - r-ggplot2
     - r-mlr3 >=0.14.1
     - r-mlr3misc >=0.7.0
@@ -50,7 +50,7 @@ requirements:
     - {{ native }}gcc-libs         # [win]
     - r-checkmate
     - r-data.table
-    - r-distr6 >=1.6.11
+    - r-distr6 >=1.8.2
     - r-ggplot2
     - r-mlr3 >=0.14.1
     - r-mlr3misc >=0.7.0
