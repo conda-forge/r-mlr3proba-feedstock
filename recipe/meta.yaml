@@ -1,4 +1,4 @@
-{% set version = "0.5.3" %}
+{% set version = "0.5.4" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url: https://mlr-org.r-universe.dev/src/contrib/mlr3proba_{{ version }}.tar.gz
   ## note these are not stable and get periodically rebuilt: see https://github.com/r-universe-org/help/discussions/262
   ## an official md5 checksum can be retrieved from: https://mlr-org.r-universe.dev/api/packages
-  sha256: 7b0e2eada3d8d892d99b4ff815f83d4fd85df407742ac153fe03981c8deb121b
+  sha256: 2d6c387018e57ecb2caa2babccad28fc42e3509f35668aa0510c448340c024a0
 
 build:
   merge_build_host: true  # [win]
