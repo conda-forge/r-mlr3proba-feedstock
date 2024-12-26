@@ -39,6 +39,7 @@ requirements:
     - r-ggplot2
     - r-mlr3 >=0.14.1
     - r-mlr3misc >=0.7.0
+    - r-mlr3pipelines >=0.7.0
     - r-mlr3viz
     - r-paradox >=0.1.0
     - r-r6
@@ -53,6 +54,7 @@ requirements:
     - r-ggplot2
     - r-mlr3 >=0.14.1
     - r-mlr3misc >=0.7.0
+    - r-mlr3pipelines >=0.7.0
     - r-mlr3viz
     - r-paradox >=0.1.0
     - r-r6
