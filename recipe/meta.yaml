@@ -1,6 +1,5 @@
 {% set version = "0.6.3" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-mlr3proba
@@ -13,8 +12,7 @@ source:
   sha256: e75d94843367da941befe836afa62753d8f9c223c08f1c3ba171b62034b0bfdc
 
 build:
-  merge_build_host: true  # [win]
-  number: 0
+  number: 1
   rpaths:
     - lib/R/lib/
     - lib/
@@ -49,7 +47,6 @@ requirements:
     - r-survivalmodels >=0.1.12
   run:
     - r-base
-    - {{ native }}gcc-libs         # [win]
     - r-checkmate
     - r-data.table
     - r-distr6 >=1.8.4
