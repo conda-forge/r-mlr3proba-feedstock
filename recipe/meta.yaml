@@ -41,10 +41,10 @@ requirements:
     - r-data.table
     - r-distr6 >=1.8.4
     - r-ggplot2
-    - r-mlr3 >=1.0.0
-    - r-mlr3misc >=0.8.0
+    - r-mlr3 >= 1.2.0
+    - r-mlr3misc >=0.19.0
     - r-mlr3pipelines >=0.7.0
-    - r-paradox >=0.1.0
+    - r-paradox >=1.0.0
     - r-r6
     - r-rcpp >=1.0.4
     - r-survival
@@ -54,10 +54,10 @@ requirements:
     - r-data.table
     - r-distr6 >=1.8.4
     - r-ggplot2
-    - r-mlr3 >=1.0.0
-    - r-mlr3misc >=0.8.0
+    - r-mlr3 >= 1.2.0
+    - r-mlr3misc >=0.19.0
     - r-mlr3pipelines >=0.7.0
-    - r-paradox >=0.1.0
+    - r-paradox >=1.0.0
     - r-r6
     - r-rcpp >=1.0.4
     - r-survival
