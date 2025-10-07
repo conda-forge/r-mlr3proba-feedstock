@@ -41,7 +41,7 @@ requirements:
     - r-data.table
     - r-distr6 >=1.8.4
     - r-ggplot2
-    - r-mlr3 >= 1.2.0
+    - r-mlr3 >=1.2.0
     - r-mlr3misc >=0.19.0
     - r-mlr3pipelines >=0.7.0
     - r-paradox >=1.0.0
@@ -54,7 +54,7 @@ requirements:
     - r-data.table
     - r-distr6 >=1.8.4
     - r-ggplot2
-    - r-mlr3 >= 1.2.0
+    - r-mlr3 >=1.2.0
     - r-mlr3misc >=0.19.0
     - r-mlr3pipelines >=0.7.0
     - r-paradox >=1.0.0
