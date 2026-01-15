@@ -9,7 +9,7 @@ source:
   url: https://mlr-org.r-universe.dev/src/contrib/mlr3proba_{{ version }}.tar.gz
   ## note these are not stable and get periodically rebuilt: see https://github.com/r-universe-org/help/discussions/262
   ## an official md5 checksum can be retrieved from: https://mlr-org.r-universe.dev/api/packages
-  sha256: 723d9def4549e1b6034a06ff31f999b6e4b0e6f9a6566065f0c0c96ac4eb3dfa
+  sha256: 09a8d42dc25e336df41d68480a63e0a8362a7b79cf6c1fac15d1743e0717874e
 
 build:
   number: 0
